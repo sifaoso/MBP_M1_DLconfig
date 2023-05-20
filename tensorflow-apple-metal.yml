@@ -1,4 +1,4 @@
-name: DeepLearning
+name: DLenv
 channels:
   - apple
   - conda-forge
