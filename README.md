@@ -6,6 +6,6 @@ Reference : Jeff Heaton (https://www.youtube.com/@HeatonResearch)
 
 To remove jupyter notebook kernel : 
 
-'''
-jupyter kernelspec remove <kernel-name>
-'''
+```
+$ jupyter kernelspec remove <kernel-name>
+```
