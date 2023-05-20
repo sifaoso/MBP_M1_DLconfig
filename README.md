@@ -4,6 +4,8 @@
 
 Reference : Jeff Heaton (https://www.youtube.com/@HeatonResearch)
 
+First of all, be sure that you use the arm version of anaconda !
+
 To remove jupyter notebook kernel : 
 
 ```
