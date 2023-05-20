@@ -10,7 +10,7 @@ To remove jupyter notebook kernel :
 $ jupyter kernelspec remove <kernel-name>
 ```
 
-At the beginning my mps wait not available, so I did : 
+At the beginning my mps was not available, so I did : 
 
 ```
 $ pip3 uninstall torch torchvision torchaudio 
